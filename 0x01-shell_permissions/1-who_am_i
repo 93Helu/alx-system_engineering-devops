@@ -1,1 +1,2 @@
-Task 1.who am I
+#!/bin/bash
+su betty
