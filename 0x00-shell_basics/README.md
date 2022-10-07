@@ -1,1 +1,1 @@
-Display the contents list of your current directory in long format
+6-multiple_permissions
