@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+i#!/usr/bin/env bash
 # Displays numbers from 1 to 20 in addition to:
 #   "bad luck from China" for the 4th loop iteration
 #   "bad luck from Japan" for the 9th loop iteration
@@ -16,4 +16,3 @@ do
 		esac
 		(( count++ ))
 done
-^C
